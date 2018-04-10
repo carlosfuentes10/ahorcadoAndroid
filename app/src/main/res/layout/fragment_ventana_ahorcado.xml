@@ -341,6 +341,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:backgroundTint="@android:color/background_light"
+            android:onClick="restart"
             android:text=""
 
 
